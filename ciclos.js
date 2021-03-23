@@ -82,4 +82,4 @@ console.log( "La suma total es: " + suma);
 
 
 
-//ejercicio 
+//a ver si sirve lo de la actualizacion y no me da error como antes :(
